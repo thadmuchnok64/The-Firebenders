@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: de4eba2d879d34c6c9d2439741d505df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1369371924458292739
+    second: Albert-Sheet_0
+  - first:
+      213: -8466115979403082272
+    second: Albert-Sheet_1
+  - first:
+      213: -5867445565752463212
+    second: Albert-Sheet_2
+  - first:
+      213: 8374430428901243886
+    second: Albert-Sheet_3
+  - first:
+      213: -1867042578192349012
+    second: Albert-Sheet_4
+  - first:
+      213: -4053404248340226500
+    second: Albert-Sheet_5
+  - first:
+      213: -8948045543421325926
+    second: Albert-Sheet_6
+  - first:
+      213: -2687013849258362125
+    second: Albert-Sheet_7
+  - first:
+      213: -2813424591805679290
+    second: Albert-Sheet_8
+  - first:
+      213: -2672984044457911704
+    second: Albert-Sheet_9
+  - first:
+      213: 7642522345180362855
+    second: Albert-Sheet_10
+  - first:
+      213: -1180323558696204313
+    second: Albert-Sheet_11
+  - first:
+      213: -391613099293020641
+    second: Albert-Sheet_12
+  - first:
+      213: -8501545870831092921
+    second: Albert-Sheet_13
+  - first:
+      213: -5123458777728447027
+    second: Albert-Sheet_14
+  - first:
+      213: 9129561251244718565
+    second: Albert-Sheet_15
+  - first:
+      213: 1310026755050455898
+    second: Albert-Sheet_16
+  - first:
+      213: -2346423573305369953
+    second: Albert-Sheet_17
+  - first:
+      213: 7657183547469361426
+    second: Albert-Sheet_18
+  - first:
+      213: -5066458195767379177
+    second: Albert-Sheet_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Albert-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 96
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284d36b02e63d4a289058454295bb087
+      internalID: -1369371924458292739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 96
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c283ae65465f84df99e14afaa8c58c31
+      internalID: -8466115979403082272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 96
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde2242d8528c4f16ba7f9a685c3e8b5
+      internalID: -5867445565752463212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 96
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c662a75e03a34686a022d54e8b02ff3
+      internalID: 8374430428901243886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 96
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78b62debc3e64bfeb36b88b15b694c5
+      internalID: -1867042578192349012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c628f0e98cfdd4b9c9daebb1c3d15a4b
+      internalID: -4053404248340226500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa58895ccd8cd4a4fa14345fbf068752
+      internalID: -8948045543421325926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b492e2375302f4105a765b47bb3dadb4
+      internalID: -2687013849258362125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c7feb1984794f54a47948142c535ca
+      internalID: -2813424591805679290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e417f0acfdb43b39521154d7ad1cd4
+      internalID: -2672984044457911704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1c67889be764ce685e0dd78d3bfdb8
+      internalID: 7642522345180362855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466481b97bcb5454aa993423b7c3c829
+      internalID: -1180323558696204313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6aebef0aef543fdabc7a2f548d525c
+      internalID: -391613099293020641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf367cb80d0114b7b92f0d96b1e52532
+      internalID: -8501545870831092921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36233040c339544c1bec2a64197eb9a4
+      internalID: -5123458777728447027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fa810bb9dcb4009bc366dbda975d24
+      internalID: 9129561251244718565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4904fbd3e86d44d78bc077ae9acfe42c
+      internalID: 1310026755050455898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8630b73a8247e4837b62d21f5d5f89ed
+      internalID: -2346423573305369953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90aab92d3b864fa2b2c07e0b31bc115
+      internalID: 7657183547469361426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3703e6042534e438a9a6ba89583d9944
+      internalID: -5066458195767379177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
